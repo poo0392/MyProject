@@ -1,0 +1,9 @@
+diff a/app/src/main/java/in/microlan/www/perfectmatrimony/authenticate/view/VerifyUsersActivity.java b/app/src/main/java/in/microlan/www/perfectmatrimony/authenticate/view/VerifyUsersActivity.java	(rejected hunks)
+@@ -39,6 +39,7 @@
+     @Override
+     public void onCreate(@Nullable Bundle savedInstanceState) {
+         super.onCreate(savedInstanceState);
++
+         InitView();
+     }
+ 
